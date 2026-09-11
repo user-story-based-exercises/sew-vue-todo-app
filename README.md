@@ -11,7 +11,7 @@ SEW | Todo App
 
 ### Acceptance Criteria
 - All open TODOs are displayed.
-- The "age" of each TODO is displayed in days, hours and minutes (updated only when reloading the page).
+- The "age" of each TODO is displayed in days, hours and minutes (static display, test with some default TODOs created in the code, no storage of TODOs necessary!).
 - If there are no open TODOs, a suitable message is displayed. 
 
 ## User Story 3
